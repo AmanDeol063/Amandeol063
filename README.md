@@ -73,8 +73,8 @@ Hi! I'm **Aman Deol**, a DevOps aspirant, exploring Kubernetes, Jenkins, AWS, GC
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandeol063&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandeol063&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandeol063&show_icons=true&theme=github-light&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandeol063&theme=github-light" alt="GitHub Streak" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Hi! I'm **Aman Deol**, a DevOps aspirant, exploring Kubernetes, Jenkins, AWS, GC
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=radical&row=1&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=default&row=1&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
