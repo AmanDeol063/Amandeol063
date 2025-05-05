@@ -73,13 +73,27 @@ Hi! I'm **Aman Deol**, a DevOps aspirant, exploring Kubernetes, Jenkins, AWS, GC
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandeol063&show_icons=true&theme=github-light&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandeol063&theme=github-light" alt="GitHub Streak" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Amandeol063&show_icons=true&theme=github-light&count_private=true" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Amandeol063&show_icons=true&theme=dark&count_private=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Amandeol063&show_icons=true&theme=github-light&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Amandeol063&theme=github-light" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Amandeol063&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandeol063&theme=github-light" alt="GitHub Streak" />
+  </picture>
 </p>
 
----
-
 ## 🏆 GitHub Trophies
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=default&row=1&column=5" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=dark&row=1&column=5" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=default&row=1&column=5" alt="GitHub Trophies" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=default&row=1&column=5" alt="GitHub Trophies" />
