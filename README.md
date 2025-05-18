@@ -1,5 +1,3 @@
-<!-- Improved GitHub Profile README -->
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/USERNAME/animated-wave.gif" alt="Waving Hand" width="100" height="100" />
   <h1 align="center">Hi, I'm Aman Deol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
