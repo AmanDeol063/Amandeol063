@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/USERNAME/animated-wave.gif" alt="Waving Hand" width="100" height="100" />
-  <h1 align="center">Hi, I'm Aman Deol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1 align="center">Hi, I'm Aman Deol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"></h1>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FF69B4&width=600&center=true&lines=Aspiring+DevOps+Engineer;Passionate+About+Cloud+Infrastructure;Exploring+CI/CD+Practices;Learning+Infrastructure+as+Code;Focused+on+Automation+and+Scalability;Building+Skills+in+Kubernetes+%26+Docker;Developing+Expertise+in+Cloud+Platforms;Committed+to+Continuous+Learning;Exploring+Monitoring+%26+Logging+Tools;Enthusiast+in+DevOps+Culture+%26+Tools;Practicing+GitOps+Principles;Developing+Robust+Deployment+Pipelines;Advancing+My+DevOps+Knowledge;Hands-On+with+Linux+%26+Scripting;Bridging+Development+and+Operations" alt="Typing SVG" />
 </p>
 
-Hi! I'm **Aman Deol**, a DevOps aspirant, exploring Kubernetes, Jenkins, AWS, GCP, and Terraform.
+Hi! I'm **Aman Deol**, a DevOps aspirant exploring Kubernetes, Jenkins, AWS, GCP, and Terraform.
 
 - 🔭 I’m currently building: **Self-healing CI/CD pipelines** with Terraform & Ansible
 - 🌱 I’m learning: **Kubernetes**, **Helm**, **GitHub Actions**, **Python scripting**
@@ -98,10 +98,15 @@ Feel free to explore more in the [Repositories](https://github.com/Amandeol063?t
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=flat&row=1&column=5" alt="GitHub Trophies" />
+  <img src="https://ghchart.rshah.org/Amandeol063" alt="GitHub Contribution Chart" />
+</p>
+
+<p align="center">
+  <!-- Fun snake GIF roaming below; host a snake.gif in your repo Assets folder -->
+  <img src="https://raw.githubusercontent.com/Amandeol063/Assets/master/snake.gif" alt="Roaming Snake" width="200" />
 </p>
 
 ---
