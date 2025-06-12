@@ -1,3 +1,5 @@
+<!-- Improved GitHub Profile README -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/USERNAME/animated-wave.gif" alt="Waving Hand" width="100" height="100" />
   <h1 align="center">Hi, I'm Aman Deol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
@@ -13,7 +15,7 @@
 ## 💫 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=2000&color=00BFFF&width=600&lines=Aspiring+DevOps+Engineer;Passionate+About+Cloud+Infrastructure;Exploring+CI%2FCD+Practices;Learning+Infrastructure+as+Code;Focused+on+Automation+and+Scalability;Building+Skills+in+Kubernetes+%26+Docker;Developing+Expertise+in+Cloud+Platforms;Committed+to+Continuous+Learning;Exploring+Monitoring+%26+Logging+Tools;Enthusiast+in+DevOps+Culture+%26+Tools;Practicing+GitOps+Principles;Developing+Robust+Deployment+Pipelines;Advancing+My+DevOps+Knowledge;Hands-On+with+Linux+%26+Scripting;Bridging+Development+and+Operations" alt="Rotating Professional Titles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FF69B4&width=600&center=true&lines=Aspiring+DevOps+Engineer;Passionate+About+Cloud+Infrastructure;Exploring+CI/CD+Practices;Learning+Infrastructure+as+Code;Focused+on+Automation+and+Scalability;Building+Skills+in+Kubernetes+%26+Docker;Developing+Expertise+in+Cloud+Platforms;Committed+to+Continuous+Learning;Exploring+Monitoring+%26+Logging+Tools;Enthusiast+in+DevOps+Culture+%26+Tools;Practicing+GitOps+Principles;Developing+Robust+Deployment+Pipelines;Advancing+My+DevOps+Knowledge;Hands-On+with+Linux+%26+Scripting;Bridging+Development+and+Operations" alt="Typing SVG" />
 </p>
 
 Hi! I'm **Aman Deol**, a DevOps aspirant, exploring Kubernetes, Jenkins, AWS, GCP, and Terraform.
@@ -23,6 +25,18 @@ Hi! I'm **Aman Deol**, a DevOps aspirant, exploring Kubernetes, Jenkins, AWS, GC
 - 💬 Ask me about: **Docker**, **Shell Scripting**, **AWS Architecture**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandeol063) | amandeol063@gmail.com
 - ⚡ Fun Fact: I love turning complex tasks into one-line shell scripts!
+
+---
+
+## 🚀 Projects
+
+Here are some of my highlighted projects:
+
+- 🔧 [**Kubernetes-2048-Game-Deployment**](https://github.com/Amandeol063/Kubernetes-2048-Game-Deployment): Containerized a static 2048 game using Docker, integrated CI via Jenkins, and deployed using Kubernetes.
+- 📦 [**Jenkins-Docker-CICD-Project**](https://github.com/Amandeol063/Jenkins-Docker-CICD-Project): Built a CI/CD pipeline with Jenkins, Docker, and GitHub Webhooks.
+- ☁️ [**AWS-EC2-Automation**](https://github.com/Amandeol063/AWS-EC2-Automation): Automated EC2 instance provisioning using Terraform.
+
+Feel free to explore more in the [Repositories](https://github.com/Amandeol063?tab=repositories) section.
 
 ---
 
@@ -72,23 +86,25 @@ Hi! I'm **Aman Deol**, a DevOps aspirant, exploring Kubernetes, Jenkins, AWS, GC
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amandeol063&show_icons=true&theme=transparent&count_private=true&bg_color=FFFFFF" alt="GitHub Stats" />
-  &nbsp;
-  <picture>
-  <source srcset="https://nirzak-streak-stats.vercel.app/?user=Amandeol063&theme=light" media="(prefers-color-scheme: light)" />
-  <source srcset="https://nirzak-streak-stats.vercel.app/?user=Amandeol063&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Amandeol063&theme=light" alt="GitHub Streak" />
-</picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://nirzak-streak-stats.vercel.app/?user=Amandeol063&theme=light" media="(prefers-color-scheme: light)" />
+    <source srcset="https://nirzak-streak-stats.vercel.app/?user=Amandeol063&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Amandeol063&theme=light" alt="GitHub Streak" />
+  </picture>
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=light&row=1&column=5" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=dark&row=1&column=5" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=light&row=1&column=5" alt="GitHub Trophies" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Amandeol063&theme=flat&row=1&column=5" alt="GitHub Trophies" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Amandeol063/Assets/master/cloud.gif" alt="Exploring the Cloud" width="200" />
