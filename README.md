@@ -33,8 +33,8 @@ Hi! I'm **Aman Deol**, a DevOps aspirant exploring Kubernetes, Jenkins, AWS, GCP
 Here are some of my highlighted projects:
 
 - 🔧 [**Kubernetes-2048-Game-Deployment**](https://github.com/Amandeol063/Kubernetes-2048-Game-Deployment): Containerized a static 2048 game using Docker, integrated CI via Jenkins, and deployed using Kubernetes.
-- 📦 [**Jenkins-Docker-CICD-Project**](https://github.com/Amandeol063/Jenkins-Docker-CICD-Project): Built a CI/CD pipeline with Jenkins, Docker, and GitHub Webhooks.
-- ☁️ [**AWS-EC2-Automation**](https://github.com/Amandeol063/AWS-EC2-Automation): Automated EC2 instance provisioning using Terraform.
+
+- ☁️ [**AWS-EC2-Automation**](https://github.com/AmanDeol063/AWS-Projects-Basic): Automated EC2 instance provisioning using Terraform.
 
 Feel free to explore more in the [Repositories](https://github.com/Amandeol063?tab=repositories) section.
 
