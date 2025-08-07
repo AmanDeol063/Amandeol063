@@ -32,11 +32,11 @@ Hi! I'm **Aman Deol**, a DevOps aspirant exploring Kubernetes, Jenkins, AWS, GCP
 
 Below are the key projects from my resume, presented in a timeline order:
 
-* 📅 **Budget App Deployment** ([Repo](https://github.com/AmanDeol063/Budget-App-Deploy))
+* 📅 **Budget App Deployment** ([Repo](https://github.com/AmanDeol063/Budget-App-Deployment))
 
   * **Description:** Deployed a Ruby on Rails budgeting application with PostgreSQL backend on an AWS EC2 Kubernetes cluster. Used Docker for containerization, Kubernetes for orchestration, Jenkins for CI/CD, ArgoCD for GitOps, and Trivy for security scanning.
 
-* 📅 **CI/CD Pipeline with Jenkins & GitOps** ([Repo](https://github.com/Amandeol063/ci-cd-jenkins-pipeline))
+* 📅 **CI/CD Pipeline with Jenkins & GitOps** ([Repo](https://github.com/AmanDeol063/Kubernetes-2048-Game-Deployment))
 
   * **Description:** Built a comprehensive CI/CD pipeline: automated build, test, image scanning, and deployment to Kubernetes via ArgoCD. Implemented branching strategies, webhook triggers, and rollback mechanisms.
 
