@@ -15,28 +15,34 @@
 ## 💫 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FF69B4&width=600&center=true&lines=Aspiring+DevOps+Engineer;Passionate+About+Cloud+Infrastructure;Exploring+CI/CD+Practices;Learning+Infrastructure+as+Code;Focused+on+Automation+and+Scalability;Building+Skills+in+Kubernetes+%26+Docker;Developing+Expertise+in+Cloud+Platforms;Committed+to+Continuous+Learning;Exploring+Monitoring+%26+Logging+Tools;Enthusiast+in+DevOps+Culture+%26+Tools;Practicing+GitOps+Principles;Developing+Robust+Deployment+Pipelines;Advancing+My+DevOps+Knowledge;Hands-On+with+Linux+%26+Scripting;Bridging+Development+and+Operations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FF69B4&width=600&center=true&lines=Aspiring+DevOps+Engineer;Passionate+About+Cloud+Infrastructure;Exploring+CI/CD+Practices;Learning+Infrastructure+as+Code;Focused+on+Automation+and+Scalability;Building+Skills+in+Kubernetes+%26+Docker;Developing+Expertise+in+Cloud+Platforms;Committed+to+Continuous+Learning;Enthusiast+in+DevOps+Culture+%26+Tools;Practicing+GitOps+Principles;Developing+Robust+Deployment+Pipelines;Advancing+My+DevOps+Knowledge;Hands-On+with+Linux+%26+Scripting;Bridging+Development+and+Operations" alt="Typing SVG" />
 </p>
 
 Hi! I'm **Aman Deol**, a DevOps aspirant exploring Kubernetes, Jenkins, AWS, GCP, and Terraform.
 
-- 🔭 I’m currently building: **Self-healing CI/CD pipelines** with Terraform & Ansible
-- 🌱 I’m learning: **Kubernetes**, **Helm**, **GitHub Actions**, **Python scripting**
-- 💬 Ask me about: **Docker**, **Shell Scripting**, **AWS Architecture**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandeol063) | amandeol063@gmail.com
-- ⚡ Fun Fact: I love turning complex tasks into one-line shell scripts!
+* 🔭 I’m currently building: **Self-healing CI/CD pipelines** with Terraform & Ansible
+* 🌱 I’m learning: **Kubernetes**, **Helm**, **GitHub Actions**, **Python scripting**
+* 💬 Ask me about: **Docker**, **Shell Scripting**, **AWS Architecture**
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandeol063) | [amandeol063@gmail.com](mailto:amandeol063@gmail.com)
+* ⚡ Fun Fact: I love turning complex tasks into one-line shell scripts!
 
 ---
 
 ## 🚀 Projects
 
-Here are some of my highlighted projects:
+Below are the key projects from my resume, presented in a timeline order:
 
-- 🔧 [**Kubernetes-2048-Game-Deployment**](https://github.com/Amandeol063/Kubernetes-2048-Game-Deployment): Containerized a static 2048 game using Docker, integrated CI via Jenkins, and deployed using Kubernetes.
+* 📅 **Budget App Deployment** ([Repo](https://github.com/AmanDeol063/Budget-App-Deploy))
 
-- ☁️ [**AWS-EC2-Automation**](https://github.com/AmanDeol063/AWS-Projects-Basic): Automated EC2 instance provisioning using Terraform.
+  * **Description:** Deployed a Ruby on Rails budgeting application with PostgreSQL backend on an AWS EC2 Kubernetes cluster. Used Docker for containerization, Kubernetes for orchestration, Jenkins for CI/CD, ArgoCD for GitOps, and Trivy for security scanning.
 
-Feel free to explore more in the [Repositories](https://github.com/Amandeol063?tab=repositories) section.
+* 📅 **CI/CD Pipeline with Jenkins & GitOps** ([Repo](https://github.com/Amandeol063/ci-cd-jenkins-pipeline))
+
+  * **Description:** Built a comprehensive CI/CD pipeline: automated build, test, image scanning, and deployment to Kubernetes via ArgoCD. Implemented branching strategies, webhook triggers, and rollback mechanisms.
+
+* 📅 **AWS Infrastructure Automation** ([Repo](https://github.com/AmanDeol063/AWS-Projects-Basic))
+
+  * **Description:** Automated provisioning of multi-tier AWS infrastructure (VPC, subnets, EC2 instances, and ELB) using Terraform and configured servers with Ansible. Integrated Prometheus and Grafana for monitoring.
 
 ---
 
@@ -48,12 +54,14 @@ Feel free to explore more in the [Repositories](https://github.com/Amandeol063?t
 </p>
 
 > **Credly Badges:**
-> - Associate Cloud Engineer (Google Cloud)  
-> - AWS Cloud Practitioner
+>
+> * Associate Cloud Engineer (Google Cloud)
+> * AWS Cloud Practitioner
 
 > **HackerRank Certificates:**
-> - Java (Intermediate)  
-> - MySQL (Intermediate)
+>
+> * Java (Intermediate)
+> * MySQL (Intermediate)
 
 ---
 
@@ -85,7 +93,7 @@ Feel free to explore more in the [Repositories](https://github.com/Amandeol063?t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandeol063&show_icons=true&theme=transparent&count_private=true&bg_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanDeol063&show_icons=true&theme=transparent&count_private=true&bg_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
